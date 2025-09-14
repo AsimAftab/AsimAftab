@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asimaftab&label=Profile%20views&color=0e75b6&style=flat" alt="asimaftab" /> </p>
 
-- 🌱 I’m currently learning **Java,Kotlin,Flutter, SpringBoot**
+- 🌱 I’m currently learning **Java, Kotlin, Flutter, SpringBoot**
 
-- 💬 Ask me about **C,C++,Kotlin,Java,Android App Development**
+- 💬 Ask me about **C, C++, Kotlin, Java, Android App Development**
 
-- 📫 How to reach me **asimaftab303@gmail.com**
+- 📫 How to reach me **asim.dev.cs@gmail.com**
 
-- 📄 Know about my experiences [Worked as an Flutter intern at Kalodhunga Creations](April 2024-July 2024)
+- 📄 Know about my experiences: **Worked at Microsoft as a Technical Consultant Intern**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +23,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/asimaftab"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="asimaftab" /></a></p><br><br>
 
+<p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asimaftab&show_icons=true&theme=tokyonight&title_color=2fa0c6&locale=en&layout=compact" alt="asimaftab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asimaftab&show_icons=true&locale=en" alt="asimaftab" /></p>
