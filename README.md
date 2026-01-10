@@ -138,5 +138,5 @@ Based in Bangalore, India • Originally from Nepal 🇳🇵
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asimaftab&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asimaftab&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
