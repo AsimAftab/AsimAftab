@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asim Aftab</h1>
 <h3 align="center">
-Software Engineer | Full-Stack & Backend Focused  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+%26+Backend+Focused;Building+Scalable+Systems;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" /></a>
 </h3>
 
 <h4 align="center">
@@ -22,12 +22,32 @@ Based in Bangalore, India • Originally from Nepal 🇳🇵
 ---
 
 ### 🛠️ Currently Working With
-- **Backend:** Java, Spring Boot, Node.js, Express  
-- **Frontend:** React, Android (Kotlin), Flutter  
-- **Databases:** MongoDB, SQL  
-- **DevOps & Infra:** Nginx, PM2, Linux, CI/CD  
-- **Automation:** Playwright, Selenium  
-- **Cloud & Tools:** GitHub, Postman
+
+**Backend:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & Tools:**  
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Testing & Automation:**  
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
@@ -99,11 +119,24 @@ Based in Bangalore, India • Originally from Nepal 🇳🇵
 
 ---
 
-### 📊 GitHub Stats
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asimaftab&layout=compact&theme=tokyonight" />
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asimaftab&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=asimaftab&show_icons=true&theme=tokyonight" />
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asimaftab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asimaftab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimaftab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asimaftab&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
