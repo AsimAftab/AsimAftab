@@ -122,12 +122,12 @@ Based in Bangalore, India • Originally from Nepal 🇳🇵
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsimAftab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsimAftab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AsimAftab&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsimAftab&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AsimAftab&theme=transparent" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AsimAftab&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
