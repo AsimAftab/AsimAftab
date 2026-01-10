@@ -127,7 +127,7 @@ Based in Bangalore, India • Originally from Nepal 🇳🇵
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsimAftab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AsimAftab&theme=transparent" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
