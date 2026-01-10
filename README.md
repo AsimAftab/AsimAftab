@@ -8,7 +8,7 @@ Based in Bangalore, India • Originally from Nepal 🇳🇵
 </h4>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=asimaftab&label=Profile%20views&color=0e75b6&style=flat" alt="asimaftab" />
+  <img src="https://komarev.com/ghpvc/?username=AsimAftab&label=Profile%20views&color=0e75b6&style=flat" alt="AsimAftab" />
 </p>
 
 ---
@@ -119,24 +119,17 @@ Based in Bangalore, India • Originally from Nepal 🇳🇵
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asimaftab&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asimaftab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asimaftab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AsimAftab&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsimAftab&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimaftab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AsimAftab&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asimaftab&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsimAftab&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
