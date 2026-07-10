@@ -129,8 +129,11 @@ Java & Spring Boot · Backend APIs & Architecture · System Design · Full-Stack
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsimAftab&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsimAftab&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsimAftab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsimAftab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
