@@ -1,119 +1,126 @@
 <h1 align="center">Hi 👋, I'm Asim Aftab</h1>
+
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+%26+Backend+Focused;Building+Scalable+Systems;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Node.js;Building+Scalable+Systems;Clean+Architecture+Enthusiast" alt="Typing SVG" /></a>
 </h3>
 
 <h4 align="center">
-Based in Bangalore, India • Originally from Nepal 🇳🇵
+📍 Based in Bangalore, India • Originally from Nepal 🇳🇵
 </h4>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AsimAftab&label=Profile%20views&color=0e75b6&style=flat" alt="AsimAftab" />
+<p align="center">
+  <a href="https://asimaftab.app/"><img src="https://img.shields.io/badge/Portfolio-asimaftab.app-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/asim-aftab/"><img src="https://img.shields.io/badge/LinkedIn-asim--aftab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:asim.dev.cs@gmail.com"><img src="https://img.shields.io/badge/Email-asim.dev.cs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AsimAftab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 💻 **Software Engineer** with strong backend & system design focus  
-- 🏗️ Experienced in **building production-grade SaaS applications**
+
+- 💻 **Backend Software Engineer** — a backend brain with builder's hands
+- 🏢 **Technical Consultant Intern @ Microsoft** — enterprise Azure & Microsoft 365 deployments
+- 🎓 B.E. Computer Science @ **BMS Institute of Technology and Management** (2022–2026)
+- ☁️ **3× Microsoft Azure certified**
+- 🤖 **Amazon ML Summer School '24** participant
+- 🏗️ Experienced in building **production-grade, multi-tenant SaaS applications**
 - 🧠 Comfortable with **LLD / HLD, APIs, Databases, and System Design**
-- 🎯 Passionate about **clean architecture & scalable systems**
+- 🌱 Open to **full-time roles, freelance backend/full-stack work, and remote opportunities**
 
 ---
 
-### 🛠️ Currently Working With
+### 🌟 Featured Projects
 
-**Backend:**  
+| Project | Description | Tech Stack |
+|---|---|---|
+| **SalesSphere ERP** ([Backend](https://github.com/AsimAftab/SalesSphere-Backend-ERP) · [App](https://github.com/AsimAftab/SalesSphere-App)) | Multi-tenant SaaS ERP for Nepal's field-sales market | Bun, Express, Prisma, React, Flutter |
+| **[Sentinel AI](https://github.com/AsimAftab/Sentinel-AI-Backend)** ([Desktop](https://github.com/AsimAftab/Sentinel-AI-Desktop)) | Desktop AI assistant with a FastAPI backend | Python, FastAPI, LLMs |
+| **[DataSage AI](https://github.com/AsimAftab/DataSage-AI)** | Conversational analytics over CSV & data sources | Python, LLMs |
+| **[HisabKitab](https://github.com/AsimAftab/HisabKitab-Backend)** | Personal finance management backend | Java, Spring Boot, MySQL |
+| **[Project Odin](https://github.com/AsimAftab/Project-Odin)** | Systems programming project | Rust |
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend:**
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Frontend:**  
+**Frontend:**
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Mobile:**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
-**Databases:**  
+**Databases:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-**DevOps & Tools:**  
+**DevOps & Cloud:**
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=icloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Testing & Automation:**  
+**AI & Tooling:**
+![LLMs](https://img.shields.io/badge/LLMs-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
-### 🌱 Currently Learning
-- Advanced **Java & Spring Boot**
-- **Kotlin** (Android + Backend)
-- **Flutter**
-- System Design (Scalable architectures)
+### 🧑‍💼 Experience & Highlights
+
+- 🏢 **Microsoft** — *Technical Consultant Intern* (Jan 2025 – Present)
+  - Working on enterprise-grade **Azure & Microsoft 365** deployments and real-world problem solving
+- 🎤 **Vice President, Coding Club** — led a community of **200+ students**, organized hackathons & workshops
+- 🤖 **Amazon ML Summer School 2024** — selected participant
+- ☁️ **3× Microsoft Azure certifications**
 
 ---
 
 ### 💬 Ask Me About
-- Java & Spring Boot  
-- Backend APIs & Architecture  
-- Full-Stack Development  
-- MongoDB & Database Design  
-- Android App Development  
+
+Java & Spring Boot · Backend APIs & Architecture · System Design · Full-Stack Development · PostgreSQL & MongoDB · Flutter & Android
 
 ---
 
-### 🧑‍💼 Experience
-- 🏢 **Microsoft** — *Technical Consultant Intern*  
-  - Worked on enterprise-grade systems and real-world problem solving
+### 📫 Connect With Me
 
----
-
-### 📫 How to Reach Me
+- 🌐 Portfolio: [asimaftab.app](https://asimaftab.app/)
+- 💼 LinkedIn: [linkedin.com/in/asim-aftab](https://www.linkedin.com/in/asim-aftab/)
 - 📧 Email: **asim.dev.cs@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/asim-aftab](https://linkedin.com/in/asim-aftab)
 - 📷 Instagram: [@asimaftab_303](https://instagram.com/asimaftab_303)
 
 ---
 
-### 🔗 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/asim-aftab" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/asimaftab_303" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🧰 Languages & Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-</p>
-
----
-
 ### ☕ Support
+
 <p>
 <a href="https://www.buymeacoffee.com/asimaftab">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee" />
 </a>
 </p>
 
@@ -122,12 +129,12 @@ Based in Bangalore, India • Originally from Nepal 🇳🇵
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AsimAftab&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsimAftab&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsimAftab&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsimAftab&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AsimAftab&theme=tokyonight" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AsimAftab&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
