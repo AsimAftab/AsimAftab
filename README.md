@@ -23,7 +23,7 @@
 ### 🚀 About Me
 
 - 💻 **Backend Software Engineer** — a backend brain with builder's hands
-- 🏢 **Data and AI Consultant @ Microsoft** — enterprise Azure & Microsoft 365 deployments
+- 🏢 **Data and AI Consultant @ Microsoft** (May 2025 – July 2025) — enterprise Azure & Microsoft 365 deployments
 - 🎓 B.E. Computer Science @ **BMS Institute of Technology and Management** (2022–2026)
 - ☁️ **3× Microsoft Azure certified**
 - 🤖 **Amazon ML Summer School '24** participant
@@ -93,8 +93,8 @@
 
 ### 🧑‍💼 Experience & Highlights
 
-- 🏢 **Microsoft** — *Data and AI Consultant* (Jan 2025 – Present)
-  - Working on enterprise-grade **Azure & Microsoft 365** deployments and real-world problem solving
+- 🏢 **Microsoft** — *Data and AI Consultant* (May 2025 – July 2025)
+  - Worked on enterprise-grade **Azure & Microsoft 365** deployments and real-world problem solving
 - 🎤 **Vice President, Coding Club** — led a community of **200+ students**, organized hackathons & workshops
 - 🤖 **Amazon ML Summer School 2024** — selected participant
 - ☁️ **3× Microsoft Azure certifications**
