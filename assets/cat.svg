@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 8 268 300" width="268" height="300" role="img" aria-label="An orange cat sitting and blinking">
+  <g fill="none" stroke="#1B1B1F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- gentle idle bob for the whole cat -->
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+                        values="0 0; 0 -3; 0 0" keyTimes="0;0.5;1"
+                        dur="3.2s" repeatCount="indefinite" calcMode="spline"
+                        keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" />
+
+      <!-- tail (drawn as a fat stroke: dark outline under, orange over) -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate"
+                          values="0 95 268; -4 95 268; 0 95 268; 4 95 268; 0 95 268"
+                          keyTimes="0;0.25;0.5;0.75;1"
+                          dur="4.8s" repeatCount="indefinite" calcMode="spline"
+                          keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1" />
+        <path d="M 96,268 C 52,292 16,278 12,246 C 10,230 30,226 34,246"
+              stroke="#1B1B1F" stroke-width="31" />
+        <path d="M 96,268 C 52,292 16,278 12,246 C 10,230 30,226 34,246"
+              stroke="#F5A150" stroke-width="22" />
+      </g>
+
+      <!-- body -->
+      <path d="M 112,150 C 96,190 86,240 82,268 Q 80,284 96,284 L 204,284 Q 220,284 218,268 C 214,240 204,190 188,150 Z"
+            fill="#F5A150" />
+
+      <!-- front paws -->
+      <ellipse cx="116" cy="276" rx="23" ry="13" fill="#F5A150" />
+      <ellipse cx="184" cy="276" rx="23" ry="13" fill="#F5A150" />
+
+      <!-- head + ears (single path so the outline stays continuous) -->
+      <path d="M 96,74 L 84,22 L 130,49 A 66,66 0 0 1 170,49 L 216,22 L 204,74 A 66,66 0 1 1 96,74 Z"
+            fill="#F5A150" />
+      <path d="M 97,63 L 91,34 L 122,52 Z" fill="#E4776A" stroke-width="4" />
+      <path d="M 203,63 L 209,34 L 178,52 Z" fill="#E4776A" stroke-width="4" />
+
+      <!-- whiskers -->
+      <g stroke-width="4">
+        <path d="M 104,130 L 60,120 M 102,139 L 56,139 M 104,148 L 61,158" />
+        <path d="M 196,130 L 240,120 M 198,139 L 244,139 M 196,148 L 239,158" />
+      </g>
+
+      <!-- eyes: ry squishes shut and the pupil vanishes = a blink -->
+      <g>
+        <ellipse cx="126" cy="104" rx="21" ry="23" fill="#FFFFFF">
+          <animate attributeName="ry" values="23;23;3;23;23;23;3;23;23"
+                   keyTimes="0;0.60;0.635;0.67;0.73;0.765;0.80;0.835;1"
+                   dur="5.4s" repeatCount="indefinite" />
+        </ellipse>
+        <ellipse cx="174" cy="104" rx="21" ry="23" fill="#FFFFFF">
+          <animate attributeName="ry" values="23;23;3;23;23;23;3;23;23"
+                   keyTimes="0;0.60;0.635;0.67;0.73;0.765;0.80;0.835;1"
+                   dur="5.4s" repeatCount="indefinite" />
+        </ellipse>
+
+        <!-- pupils drift side to side, then blink away with the lids -->
+        <g fill="#1B1B1F" stroke="none">
+          <animateTransform attributeName="transform" type="translate"
+                            values="0 0; -5 1; 0 0; 5 1; 0 0" keyTimes="0;0.2;0.42;0.62;1"
+                            dur="5.4s" repeatCount="indefinite" calcMode="spline"
+                            keySplines="0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1" />
+          <circle cx="126" cy="105" r="9.5">
+            <animate attributeName="r" values="9.5;9.5;0.5;9.5;9.5;9.5;0.5;9.5;9.5"
+                     keyTimes="0;0.60;0.635;0.67;0.73;0.765;0.80;0.835;1"
+                     dur="5.4s" repeatCount="indefinite" />
+          </circle>
+          <circle cx="174" cy="105" r="9.5">
+            <animate attributeName="r" values="9.5;9.5;0.5;9.5;9.5;9.5;0.5;9.5;9.5"
+                     keyTimes="0;0.60;0.635;0.67;0.73;0.765;0.80;0.835;1"
+                     dur="5.4s" repeatCount="indefinite" />
+          </circle>
+        </g>
+      </g>
+
+      <!-- nose + mouth -->
+      <path d="M 141,124 L 159,124 L 150,134 Z" fill="#1B1B1F" stroke-width="4" />
+      <path d="M 150,134 Q 142,147 132,141 M 150,134 Q 158,147 168,141" stroke-width="4" />
+    </g>
+  </g>
+</svg>

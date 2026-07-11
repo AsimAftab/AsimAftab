@@ -143,3 +143,28 @@ Java & Spring Boot · Backend APIs & Architecture · System Design · Full-Stack
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsimAftab&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
+
+---
+
+### 🤝 Feedback & Support
+
+I'd be happy to receive any **feedback** or **code reviews** that can help me improve 🙌
+
+⭐ Feel free to **follow me** — I'd really appreciate your support!
+
+<p align="center">
+  <a href="https://github.com/AsimAftab?tab=followers">
+    <img src="https://img.shields.io/github/followers/AsimAftab?label=Follow%20me&style=for-the-badge&color=2E9EF7&logo=github&logoColor=white" alt="Follow AsimAftab" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AsimAftab/AsimAftab/main/assets/cat.svg" width="200" alt="An orange cat, sitting patiently" />
+</p>
+
+<h3 align="center">Thank you for visiting my page 💗</h3>
+
+<p align="center">
+  <i>P.S.: If any of my projects caught your interest, a ⭐ goes a long way.<br/>
+  And if you're building something interesting — I'd love to hear about it.</i>
+</p>
