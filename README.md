@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asim Aftab</h1>
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Software+Engineer;Node.js+%7C+TypeScript+%7C+Python;Building+Scalable+Systems;AI+Agents+%26+Multi-Tenant+SaaS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+%26+Mobile+Developer;Node.js+%7C+TypeScript+%7C+Flutter;Building+Scalable+Systems;AI+Agents+%26+Multi-Tenant+SaaS" alt="Typing SVG" /></a>
 </h3>
 
 <h4 align="center">
@@ -22,14 +22,16 @@
 
 ### 🚀 About Me
 
-- 💻 **Backend Software Engineer** — a backend brain with builder's hands
+- 💻 **Backend & Mobile Developer** — I build the API *and* the app that talks to it
+- ⚙️ **Backend:** Node.js / TypeScript, Express & Bun, Prisma, PostgreSQL — multi-tenant SaaS in production
+- 📱 **Mobile:** Flutter & Dart — clean architecture, Riverpod, Material 3, shipped to real users
 - 🏢 **Data and AI Consultant @ Microsoft** (May 2025 – July 2025) — data engineering to AI/ML pipelines
 - 🎓 B.E. Computer Science @ **BMS Institute of Technology and Management** (2022–2026)
 - ☁️ **3× Microsoft Azure certified**
 - 🤖 **Amazon ML Summer School '24** participant
 - 🏗️ Experienced in building **production-grade, multi-tenant SaaS applications**
 - 🧠 Comfortable with **LLD / HLD, APIs, Databases, and System Design**
-- 🌱 Open to **full-time roles, freelance backend/full-stack work, and remote opportunities**
+- 🌱 Open to **full-time roles, freelance backend/mobile work, and remote opportunities**
 
 ---
 
@@ -102,7 +104,7 @@
 
 ### 💬 Ask Me About
 
-Backend APIs & Architecture · System Design · Node.js & TypeScript · Python & AI Agents · PostgreSQL & MongoDB · Flutter
+Backend APIs & Architecture · Flutter & Mobile App Development · Node.js & TypeScript · System Design · PostgreSQL & MongoDB · Python & AI Agents
 
 ---
 
