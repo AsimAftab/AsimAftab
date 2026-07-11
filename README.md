@@ -37,11 +37,12 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **SalesSphere ERP** ([Backend](https://github.com/AsimAftab/SalesSphere-Backend-ERP) · [App](https://github.com/AsimAftab/SalesSphere-App)) | Multi-tenant SaaS ERP for Nepal's field-sales market | Bun, Express, Prisma, React, Flutter |
-| **[Sentinel AI](https://github.com/AsimAftab/Sentinel-AI-Backend)** ([Desktop](https://github.com/AsimAftab/Sentinel-AI-Desktop)) | Desktop AI assistant with a FastAPI backend | Python, FastAPI, LLMs |
-| **[DataSage AI](https://github.com/AsimAftab/DataSage-AI)** | Conversational analytics over CSV & data sources | Python, LLMs |
-| **[HisabKitab](https://github.com/AsimAftab/HisabKitab-Backend)** | Personal finance management backend | Java, Spring Boot, MySQL |
-| **[Project Odin](https://github.com/AsimAftab/Project-Odin)** | Systems programming project | Rust |
+| **SalesSphere ERP** ([Backend](https://github.com/AsimAftab/SalesSphere-Backend-ERP) · [App](https://github.com/AsimAftab/SalesSphere-App-ERP) · [Deploy](https://github.com/AsimAftab/SalesSphereERP-Deployment)) | Multi-tenant SaaS ERP for Nepal's field-sales market, shipped to production | Bun, Express 5, Prisma, PostgreSQL, Flutter, Docker |
+| **[Sentinel AI](https://github.com/AsimAftab/Sentinel-AI-Desktop)** ([Backend](https://github.com/AsimAftab/Sentinel-AI-Backend)) | Voice-controlled desktop assistant — 5 supervised agents, 66+ tools, custom wake word | Python, LangGraph, FastAPI, PyQt5 |
+| **[Project Odin](https://github.com/AsimAftab/Project-Odin)** | Windows-first dev-environment manager — snapshots your machine so you can rebuild it from scratch | Rust |
+| **[DataSage AI](https://github.com/AsimAftab/DataSage-AI)** | Local-first multi-agent data intelligence — deep EDA, diagnostics, model strategy | Python, LLMs |
+| **[Medium MCP](https://github.com/AsimAftab/Medium-MCP)** | MCP server letting Claude/Cursor research and publish to Medium | TypeScript, MCP |
+| **[HisabKitab](https://github.com/AsimAftab/HisabKitab-Backend)** | Account-book REST API with JWT auth and monthly balance summaries | Java 17, Spring Boot 4, PostgreSQL |
 
 ---
 
