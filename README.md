@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asim Aftab</h1>
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Node.js;Building+Scalable+Systems;Clean+Architecture+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Software+Engineer;Node.js+%7C+TypeScript+%7C+Python;Building+Scalable+Systems;AI+Agents+%26+Multi-Tenant+SaaS" alt="Typing SVG" /></a>
 </h3>
 
 <h4 align="center">
@@ -49,8 +49,6 @@
 ### 🛠️ Tech Stack
 
 **Backend:**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
@@ -104,7 +102,7 @@
 
 ### 💬 Ask Me About
 
-Java & Spring Boot · Backend APIs & Architecture · System Design · Full-Stack Development · PostgreSQL & MongoDB · Flutter & Android
+Backend APIs & Architecture · System Design · Node.js & TypeScript · Python & AI Agents · PostgreSQL & MongoDB · Flutter
 
 ---
 
