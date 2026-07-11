@@ -142,7 +142,7 @@ Java & Spring Boot · Backend APIs & Architecture · System Design · Full-Stack
       <a href="https://git.io/streak-stats"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AsimAftab&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" /></a>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsimAftab&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsimAftab&theme=tokyonight&utcOffset=5.5&v=2" alt="Productive Time" height="180" />
     </td>
   </tr>
 </table>
