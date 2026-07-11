@@ -128,17 +128,24 @@ Java & Spring Boot · Backend APIs & Architecture · System Design · Full-Stack
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AsimAftab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsimAftab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AsimAftab&theme=tokyonight" alt="GitHub Streak" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=AsimAftab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="180" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsimAftab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AsimAftab&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" /></a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsimAftab&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsimAftab&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
